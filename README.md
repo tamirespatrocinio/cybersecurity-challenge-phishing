@@ -7,7 +7,7 @@ This Markdown document provides instructions for conducting a phishing attack to
 - [Kali Linux](https://www.kali.org/)
 - [setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
-Ensure that these tools are installed on your system before proceeding.
+Make certain these tools are installed on your system before proceeding.
 
 ## Setting Up Phishing on Kali Linux
 
