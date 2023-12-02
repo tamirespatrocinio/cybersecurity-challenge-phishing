@@ -42,7 +42,7 @@ Make certain these tools are installed on your system before proceeding.
 ![VirtualBox_kali_01](https://github.com/tamirespatrocinio/cybersecurity-challenge-phishing/assets/73259410/1f699100-7dfd-4e8b-9fc7-e2f098e907b8)
 ![VirtualBox_kali_02](https://github.com/tamirespatrocinio/cybersecurity-challenge-phishing/assets/73259410/c3cecbaf-79f0-4912-8dda-fe3d94940c6e)
 ![VirtualBox_kali_03](https://github.com/tamirespatrocinio/cybersecurity-challenge-phishing/assets/73259410/f0044859-c976-4e38-9849-153d9bff40f8)
-![VirtualBox_kali_04](https://github.com/tamirespatrocinio/cybersecurity-challenge-phishing/assets/73259410/d21a38c6-cbaf-4ffa-92e8-735e06551439)
+
 
 
 Ensure to thoroughly review these records responsibly, respecting the privacy and integrity of the data.
